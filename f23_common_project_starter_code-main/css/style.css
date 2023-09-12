@@ -1,0 +1,39 @@
+body {
+  background-color: #eff2f9;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  color: #138aca;
+  padding: 35px;
+  font-size: 45px;
+  font-family: "Courier New", Courier, monospace;
+  align-items: center;
+}
+h2,
+h3 {
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #606ff3;
+  padding: 30px;
+}
+p {
+  line-height: 125%;
+  padding: 50px;
+}
+img {
+  border: 5px solid #fcc9b5;
+  padding: 10px;
+  margin: 20px;
+  border-top-right-radius: 30px;
+}
+li {
+  display: inline-block;
+  margin-left: 50px;
+}
+video {
+  border: 5px solid #fcc9b5;
+  padding: 10px;
+  margin: 20px;
+  border-top-right-radius: 30px;
+}
